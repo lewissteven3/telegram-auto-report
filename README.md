@@ -6,8 +6,8 @@ Telegram: https://t.me/tgreporttool
 
 
 # INFO
--- USERS up to 300k 
+- USERS up to 300k 
 
--- 220k proxies
+- 220k proxies
   
 Telegram: https://t.me/tgreporttool
