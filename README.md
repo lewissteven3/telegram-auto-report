@@ -1,6 +1,6 @@
 # telegram-auto-report
 
-A powerful tool for reporting telegram.
+A powerful tool for reporting telegram user channel group.
 
 Telegram: https://t.me/tgreporttool
 
